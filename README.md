@@ -13,3 +13,7 @@ This project demonstrates basic Git and GitHub operations.
 - Git
 - GitHub
 - Visual Studio Code
+## Experiment 23
+
+This change demonstrates pulling updates from GitHub
+into a local repository.
